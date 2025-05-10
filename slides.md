@@ -88,15 +88,15 @@ level: 2
 ---
 
 # Project Overview
--
--
--
--
--
--
--
--
--
+- Data Types and Operators
+- Functions in JavaScript
+- Objects in JavaScript
+- DOM and EVENTS
+- Application Programing Interface (API)
+- Promises, Async and Await
+- Web Components
+- Modules and Dynamic Imports
+- Introduction to React.js and JSX
 
 <style>
 h1 {
